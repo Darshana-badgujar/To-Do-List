@@ -22,4 +22,4 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 ### Snapshot of Application
 
-![ToDoList App](https://i.imgur.com/7bjdoTW.png)
+
